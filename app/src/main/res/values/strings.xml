@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Phones</string>
+
+    <string name="empty_view_title_text">No phone in the inventory</string>
+    <string name="empty_view_subtitle_text">Hit the + button to add a phone</string>
+
+    <string name="product_name_text">Phone name</string>
+    <string name="sale_button_text">Sale</string>
+
+    <string name="phone_name_editer">Phone name: </string>
+    <string name="quantity_editer">Quantity: </string>
+    <string name="quantity_sold_editer">Quantity sold: </string>
+    <string name="phone_price_editer">Phone price: </string>
+    <string name="description_editer">Description: </string>
+    <string name="supplier_email_editer">Supplier email: </string>
+    <string name="browse_image_btn">Browse image</string>
+
+    <string name="restock_btn">Restock</string>
+    <string name="delete_btn">Delete</string>
+    <string name="save_btn">Save</string>
+
+    <string name="editor_activity_title_new_phone">Add a Phone</string>
+    <string name="editor_activity_title_edit_phone">Edit Phone</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_insert_dummy_data">Insert Dummy Data</string>
+    <string name="menu_delete_all_products">Delete All Products</string>
+
+    <string name="no_permission">Need permission to select an image</string>
+    <string name="all_fields_requested">All fields are requested</string>
+
+    <string name="editor_insert_phone_failed">Error with saving phone</string>
+    <string name="editor_insert_phone_successful">Phone saved</string>
+    <string name="editor_update_phone_failed">Error with updating phone</string>
+    <string name="editor_update_phone_successful">Phone updated</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this phone?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_phone_failed">Error with deleting phone</string>
+    <string name="editor_delete_phone_successful">Phone deleted</string>
+
+
+</resources>
